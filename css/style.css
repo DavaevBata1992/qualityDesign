@@ -97,6 +97,68 @@ nav {
     margin-bottom: 20px;
 }
 
+.bottom-card p{
+    font-size: 20px;
+    color: #cccccc;
+    text-align: left;
+    margin-top: 0;
+
+}
+.web-bottom-card p{
+    font-size:13px;
+    color: #cccccc;
+    margin-top: 0;
+
+}
+
+
+.card{
+    width: 250px;
+
+}
+
+.bottom-card{
+    background: #414146;
+    margin-top: 0;
+}
+.web-bottom-card{
+    background: #414146;
+
+}
+
+.specialize-cards{
+    display: flex;
+    justify-content: space-between;
+}
+
+.top-card{
+    background: #ffea00;
+    padding-bottom: 11px;
+}
+.top-card p{
+    margin-bottom: 0;
+}
+.top-first-card-img{
+    width: 250px;
+}
+.web-development-img{
+    width: 110px;
+    margin-top: 40px;
+}
+.web-design-img{
+    width: 110px;
+    margin-top: 40px;
+    margin-bottom: 9px;
+}
+.graphic-design-img{
+    width: 88px;
+    margin-top: 27px;
+}
+.web-first-p{
+    padding-top: 28px;
+    padding-bottom: 28px;
+}
+
 
 
 @media screen and (max-width: 420px) {
